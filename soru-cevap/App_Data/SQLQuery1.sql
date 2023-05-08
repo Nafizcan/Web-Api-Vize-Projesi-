@@ -1,0 +1,11 @@
+﻿ALTER TABLE Questions
+ADD CONSTRAINT FK_Questions_Users FOREIGN KEY (UserID)
+REFERENCES Users(UserID);
+
+ALTER TABLE Answers
+ADD CONSTRAINT FK_Answers_Questions FOREIGN KEY (QuestionID)
+REFERENCES Questions(QuestionID);
+
+ALTER TABLE Answers
+ADD CONSTRAINT FK_Answers_Users FOREIGN KEY (UserID)
+REFERENCES Users(UserID);

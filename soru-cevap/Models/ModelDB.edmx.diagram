@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="41ff239df56e457f8768e60e8442a8d4" Name="Diagram1">
+        <EntityTypeShape EntityType="QAPortalDBModel.Answers" Width="1.5" PointX="5.25" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QAPortalDBModel.Questions" Width="1.5" PointX="3" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QAPortalDBModel.Users" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <AssociationConnector Association="QAPortalDBModel.FK__Answers__Questio__3B75D760" ManuallyRouted="false" />
+        <AssociationConnector Association="QAPortalDBModel.FK__Answers__UserID__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="QAPortalDBModel.FK__Questions__UserI__38996AB5" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

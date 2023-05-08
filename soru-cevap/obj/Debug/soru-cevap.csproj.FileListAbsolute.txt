@@ -1,0 +1,164 @@
+C:\Users\nafiz\Desktop\soru-cevap\obj\Debug\soru-cevap.csproj.AssemblyReference.cache
+C:\Users\nafiz\Desktop\soru-cevap\obj\Debug\soru-cevap.csproj.CoreCompileInputs.cache
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\soru-cevap.dll.config
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\soru-cevap.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\soru-cevap.pdb
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\csc.exe
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\csc.exe.config
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\csc.rsp
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\csi.exe
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\csi.rsp
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\System.AppContext.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\vbc.exe
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\vbc.exe.config
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\vbc.rsp
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\VBCSCompiler.exe
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\EntityFramework.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\EntityFramework.SqlServer.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\Newtonsoft.Json.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\Swashbuckle.Core.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\System.Net.Http.Formatting.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\System.Web.Http.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\System.Web.Http.WebHost.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\WebActivatorEx.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\EntityFramework.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\EntityFramework.SqlServer.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\Newtonsoft.Json.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\System.Net.Http.Formatting.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\System.Web.Http.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\System.Web.Http.WebHost.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\tr\System.Web.Http.resources.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\obj\Debug\soru-cevap.csproj.AssemblyReference.cache
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\obj\Debug\soru-cevap.csproj.CoreCompileInputs.cache
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\obj\Debug\soru-cevap.csproj.CopyComplete
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\obj\Debug\soru-cevap.dll
+C:\Users\nafiz\Desktop\soru-cevap - Kopya\obj\Debug\soru-cevap.pdb
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\soru-cevap.dll.config
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\soru-cevap.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\soru-cevap.pdb
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\csc.exe
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\csc.exe.config
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\csc.rsp
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\csi.exe
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\csi.rsp
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\System.AppContext.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\vbc.exe
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\vbc.exe.config
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\vbc.rsp
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\VBCSCompiler.exe
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\EntityFramework.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\EntityFramework.SqlServer.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\Newtonsoft.Json.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\Swashbuckle.Core.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\System.Net.Http.Formatting.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\System.Web.Http.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\System.Web.Http.WebHost.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\WebActivatorEx.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\EntityFramework.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\EntityFramework.SqlServer.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\Newtonsoft.Json.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\System.Net.Http.Formatting.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\System.Web.Http.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\System.Web.Http.WebHost.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\tr\System.Web.Http.resources.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\obj\Debug\soru-cevap.csproj.AssemblyReference.cache
+C:\Users\nafiz\Documents\soru-cevap - Kopya\obj\Debug\soru-cevap.csproj.CoreCompileInputs.cache
+C:\Users\nafiz\Documents\soru-cevap - Kopya\obj\Debug\soru-cevap.csproj.CopyComplete
+C:\Users\nafiz\Documents\soru-cevap - Kopya\obj\Debug\soru-cevap.dll
+C:\Users\nafiz\Documents\soru-cevap - Kopya\obj\Debug\soru-cevap.pdb
+C:\Users\nafiz\Documents\soru-cevap\bin\soru-cevap.dll.config
+C:\Users\nafiz\Documents\soru-cevap\bin\soru-cevap.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\soru-cevap.pdb
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\csc.exe
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\csc.exe.config
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\csc.rsp
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\csi.exe
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\csi.rsp
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\System.AppContext.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\vbc.exe
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\vbc.exe.config
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\vbc.rsp
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\VBCSCompiler.exe
+C:\Users\nafiz\Documents\soru-cevap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nafiz\Documents\soru-cevap\bin\EntityFramework.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\EntityFramework.SqlServer.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\Newtonsoft.Json.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\Swashbuckle.Core.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\System.Net.Http.Formatting.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\System.Web.Http.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\System.Web.Http.WebHost.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\WebActivatorEx.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\EntityFramework.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\EntityFramework.SqlServer.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\Newtonsoft.Json.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\System.Net.Http.Formatting.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\System.Web.Http.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\System.Web.Http.WebHost.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nafiz\Documents\soru-cevap\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\tr\System.Web.Http.resources.dll
+C:\Users\nafiz\Documents\soru-cevap\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\nafiz\Documents\soru-cevap\obj\Debug\soru-cevap.csproj.AssemblyReference.cache
+C:\Users\nafiz\Documents\soru-cevap\obj\Debug\soru-cevap.csproj.CoreCompileInputs.cache
+C:\Users\nafiz\Documents\soru-cevap\obj\Debug\soru-cevap.csproj.CopyComplete
+C:\Users\nafiz\Documents\soru-cevap\obj\Debug\soru-cevap.dll
+C:\Users\nafiz\Documents\soru-cevap\obj\Debug\soru-cevap.pdb
